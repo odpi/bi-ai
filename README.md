@@ -27,7 +27,7 @@ Therefore this SIG is help for bridging the gap so that BI Tool can sit harmonio
 Finally, AI models can now run on Hadoop much more cost effective than years ago. This results in fostering the convergence of traditional BI and AI disciplines (Machine Learning, Deep Learning... etc). Hence, this SIG will also explore how this phenomenon is going to impact the Hadoop standard.
 
 # SIG membership
-* Cupid Chan, 4C Decision (SIG Champion)
+* Cupid Chan, Index Analytics (SIG Champion)
 * Roman Shaposhnik, Linux Foundation
 * Alan Gates, Hortonworks
 * Ganesh Raju, Linaro
