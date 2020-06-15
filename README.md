@@ -11,6 +11,7 @@ _This SIG was name BI & Data Science SIG. Due to shifting of the industry trend 
 * Most communication will be done by email and will minimize conference call meeting due to busy schedule of the members and hard to come up with a common time across different time zones
 
 # Meeting Notes
+* [2020-06-12 Meeting Recording](https://web.microsoftstream.com/video/31164ade-eb26-4654-a173-66a68413022b)
 * [ODPi BI & Data Science SIG 2nd Deliverable Discussion 2018-01-31](meetings/ODPi-BI-&-Data-Science-SIG-2nd-Deliverable-Discussion-Minutes-2018-01-31.md)
 * [2017-03-15 Meeting Minutes](meetings/BI-&-Data-Science-SIG-Meeting-Minutes-2017-03-15-4:30PM-EST.md)
 * [Kickoff Meeting 2017-02-20](meetings/BI-&-Data-Science-SIG-Meeting-Minutes-2017-02-20-2PM-EST.md)
