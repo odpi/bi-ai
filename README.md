@@ -1,9 +1,9 @@
 _This SIG was name BI & Data Science SIG. Due to shifting of the industry trend from Data Science which is more academic to AI, we change the name to BI & AI SIG on 2018-05-02_
 
 # Mission
-* Increase the interoperability for the BI vendors on Hadoop
-* Propose an objective benchmark to evaluate the effectiveness of BI Tools on Hadoop
-* Promote practical guidelines on how to run AI model on Hadoop
+* Increase the interoperability for the BI vendors and AI technology
+* Propose industry best practices and standard for how BI and AI can work together
+* Promote practical guidelines on how to run AI model on BI tools
 
 # How to reach us
 * Subscribe our mailing list for this SIG: https://lists.odpi.org/g/odpi-project-bi-ai
